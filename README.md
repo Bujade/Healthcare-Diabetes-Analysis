@@ -73,3 +73,4 @@ Recent analyses have uncovered intriguing patterns between specific variables an
 
 ### Strong Positive Correlations
 A) Glucose levels
+![Image](https://github.com/user-attachments/assets/ddf78409-42c5-406d-9680-b94a9502b8da)

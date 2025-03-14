@@ -80,8 +80,8 @@ A) Glucose levels
 These variables significantly contribute to identifying individuals at higher risk. They also offer valuable data for tailoring intervention strategies.
 
 -  Weaker Associations
-A) Insulin Levels
-B) Blood Pressure
+-  Insulin Levels
+-  Blood Pressure
 While still relevant, these factors suggest a more nuanced interplay between biological and lifestyle contributors to diabetes.
 ## Why These Findings Matter
 ![image](https://github.com/user-attachments/assets/fb3fba25-fcbc-4dc5-877a-aa1156c34b2f)

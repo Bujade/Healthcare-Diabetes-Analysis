@@ -75,3 +75,4 @@ Recent analyses have uncovered intriguing patterns between specific variables an
 A) Glucose levels
 ![Image](https://github.com/user-attachments/assets/ddf78409-42c5-406d-9680-b94a9502b8da)
 ![Image](https://github.com/user-attachments/assets/702c7332-7819-4e9a-90bd-e66644cdf3e0)
+![Image](https://github.com/user-attachments/assets/816c9809-4f4a-4ea0-bd40-47b168292443)

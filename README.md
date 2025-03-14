@@ -67,10 +67,11 @@ Mean: 0.34 indicates around 34% of individuals are diabetic.
 Distribution:
 0: Non-diabetic.
 1: Diabetic.
-### Key Factors Influencing Diabetes Outcomes
+### Key Factors Influencing Diabetes Outcome
 ![Image](https://github.com/user-attachments/assets/17cb988e-3a61-454f-8980-7e3c54d5e99f)
 Recent analyses have uncovered intriguing patterns between specific variables and diabetes outcomes:
 
 ### Strong Positive Correlations
 A) Glucose levels
 ![Image](https://github.com/user-attachments/assets/ddf78409-42c5-406d-9680-b94a9502b8da)
+![Image](https://github.com/user-attachments/assets/702c7332-7819-4e9a-90bd-e66644cdf3e0)

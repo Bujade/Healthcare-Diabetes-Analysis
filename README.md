@@ -14,3 +14,6 @@ Left unmanaged, diabetes can lead to severe complications, including:
 -  Eye damage (diabetic retinopathy)
 -  Kidney issues (nephropathy Nerve damage (neuropathy)
 -  Cardiovascular diseases
+-  ### About the Project - Dataset
+-  ![image](https://github.com/user-attachments/assets/3fde0467-feb6-4ef0-8438-dc64423506ef)
+

@@ -106,11 +106,13 @@ A) More accurate predictive models
 B) Better-targeted interventions
 
 The Growing Global Burden
+![Image](https://github.com/user-attachments/assets/21a94cf6-4fba-42dd-be3c-280fd5414522)
 According to the IDF Diabetes Atlas (2021):
 
 -  10.5% of adults aged 20–79 currently live with diabetes, with nearly half unaware of their condition.
 -  By 2045, this figure is expected to rise to 1 in 8 adults, or approximately 783 million people — a staggering 46% increase.
 ### A Call to Action: Building a Healthier Future
+![Image](https://github.com/user-attachments/assets/f631b8ef-1365-406d-a414-8ef00fadddcb)
 Diabetes management requires a collective effort to understand and act on the interplay of biological, lifestyle, and environmental factors. Moving forward, our focus should be on:
 1. Data-driven research: Leveraging analytics to inform prevention and treatment.
 2. Early intervention: Identifying at-risk populations before complications arise.

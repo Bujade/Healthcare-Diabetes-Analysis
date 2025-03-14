@@ -1,9 +1,11 @@
 # Healthcare-Diabetes-Analysis
 I explored the causes, effects, and management strategies of diabetes through data analysis. This project was not just a learning experience but a chance to uncover key insights about the factors driving the alarming rise in diabetes across various age groups.
 [Download this](https://www.linkedin.com/posts/adebusola-akanni-b20668246_the-multifaceted-nature-of-diabetes-insights-activity-7286335576591466496--cuX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADz3SkgBsxrRBql8jV7Nlttz1xCJ8pIoMf4)
+
 ## Diabetes, a Global Health Challenge
 Diabetes mellitus, commonly referred to as diabetes, is more than a single condition — it’s a complex illness with varying forms and impacts. Affecting millions of people worldwide, diabetes is far-reaching and multifaceted, often misunderstood in its scope and implications.
 ![Image](https://github.com/user-attachments/assets/6175501a-0218-410d-a597-520728fcbdba)
+
 This article delves into the intricate web of factors influencing diabetes, sheds light on emerging research patterns, and discusses actionable insights for patients, healthcare professionals, and researchers alike.
 ### What Is Diabetes?
 At its core, diabetes occurs when blood glucose levels are consistently too high. This happens due to:
@@ -16,6 +18,7 @@ Left unmanaged, diabetes can lead to severe complications, including:
 -  Cardiovascular diseases
 -  ### About the Project - Dataset
 -  ![image](https://github.com/user-attachments/assets/3fde0467-feb6-4ef0-8438-dc64423506ef)
+-  
 The dataset comprises 2,768 observations and provides summary statistics for various health-related attributes, including Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age, and the Outcome. The evaluation criteria are also provided for Glucose, BMI, and Age, classifying individuals into categories such as “Diabetes”, “Obese”, or “Young Adult.” Below is an analysis of the most critical observations:
 
 ### Descriptive Statistics
@@ -69,6 +72,7 @@ Distribution:
 1: Diabetic.
 ### Key Factors Influencing Diabetes Outcome
 ![Image](https://github.com/user-attachments/assets/17cb988e-3a61-454f-8980-7e3c54d5e99f)
+
 Recent analyses have uncovered intriguing patterns between specific variables and diabetes outcomes:
 
 ### Strong Positive Correlations
@@ -77,8 +81,8 @@ A) Glucose levels
 ![Image](https://github.com/user-attachments/assets/702c7332-7819-4e9a-90bd-e66644cdf3e0)
 ![Image](https://github.com/user-attachments/assets/816c9809-4f4a-4ea0-bd40-47b168292443)
 ![image](https://github.com/user-attachments/assets/d117ea4d-a9b6-40cb-ba94-807a8c865b6f)
-These variables significantly contribute to identifying individuals at higher risk. They also offer valuable data for tailoring intervention strategies.
 
+These variables significantly contribute to identifying individuals at higher risk. They also offer valuable data for tailoring intervention strategies.
 -  Weaker Associations
 -  Insulin Levels
 -  Blood Pressure
@@ -87,7 +91,6 @@ While still relevant, these factors suggest a more nuanced interplay between bio
 ![image](https://github.com/user-attachments/assets/fb3fba25-fcbc-4dc5-877a-aa1156c34b2f)
 
 Understanding the multifactorial nature of diabetes empowers different stakeholders in distinct ways:
-
 -  For Patients
 Awareness of risk factors such as BMI, age, and glucose levels enables individuals to make informed lifestyle and health decisions. Proactive measures include:
 A) Maintaining a balanced diet

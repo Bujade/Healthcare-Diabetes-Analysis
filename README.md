@@ -76,3 +76,5 @@ A) Glucose levels
 ![Image](https://github.com/user-attachments/assets/ddf78409-42c5-406d-9680-b94a9502b8da)
 ![Image](https://github.com/user-attachments/assets/702c7332-7819-4e9a-90bd-e66644cdf3e0)
 ![Image](https://github.com/user-attachments/assets/816c9809-4f4a-4ea0-bd40-47b168292443)
+![image](https://github.com/user-attachments/assets/d117ea4d-a9b6-40cb-ba94-807a8c865b6f)
+

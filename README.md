@@ -68,3 +68,4 @@ Distribution:
 0: Non-diabetic.
 1: Diabetic.
 ### Key Factors Influencing Diabetes Outcomes
+![Image](https://github.com/user-attachments/assets/17cb988e-3a61-454f-8980-7e3c54d5e99f)

@@ -84,25 +84,38 @@ A) Insulin Levels
 B) Blood Pressure
 While still relevant, these factors suggest a more nuanced interplay between biological and lifestyle contributors to diabetes.
 ## Why These Findings Matter
+![image](https://github.com/user-attachments/assets/fb3fba25-fcbc-4dc5-877a-aa1156c34b2f)
 
 Understanding the multifactorial nature of diabetes empowers different stakeholders in distinct ways:
 
-For Patients
+-  For Patients
 Awareness of risk factors such as BMI, age, and glucose levels enables individuals to make informed lifestyle and health decisions. Proactive measures include:
 A) Maintaining a balanced diet
 B) Regular physical activity
 C) Monitoring glucose levels
 
-For Healthcare Professionals
+-  For Healthcare Professionals
 The findings emphasize the need for personalized care plans that address multiple dimensions of diabetes. Strategies may include:
 A) Comprehensive health screenings
 B) Education on risk factors
 C) Tailored treatment plans
 
-For Researchers
+-  For Researchers
 These insights underscore the importance of integrating diverse datasets to uncover hidden patterns and drive innovation. Continued exploration can lead to:
 A) More accurate predictive models
 B) Better-targeted interventions
 
 The Growing Global Burden
+According to the IDF Diabetes Atlas (2021):
 
+-  10.5% of adults aged 20–79 currently live with diabetes, with nearly half unaware of their condition.
+-  By 2045, this figure is expected to rise to 1 in 8 adults, or approximately 783 million people — a staggering 46% increase.
+### A Call to Action: Building a Healthier Future
+Diabetes management requires a collective effort to understand and act on the interplay of biological, lifestyle, and environmental factors. Moving forward, our focus should be on:
+1. Data-driven research: Leveraging analytics to inform prevention and treatment.
+2. Early intervention: Identifying at-risk populations before complications arise.
+3. Patient empowerment: Equipping individuals with the tools to manage their health effectively.
+
+This project has inspired me to continue exploring how data can reshape the way we approach health challenges. Together, we can work toward a future where diabetes prevention and care are more targeted, accessible, and impactful.
+
+What are your thoughts on these findings?
